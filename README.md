@@ -3,6 +3,7 @@
 煮るなり焼くなりコピペなりは自由
 
 使い方↓
+
 function initって最初してスコボ追加、
 
 scoreboard players set @.s xp_max [xpバーの右端の値]
