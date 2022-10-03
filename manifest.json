@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "by あきぽん\ntwitter -> @akiponggg0119",
+        "name": "xp_test",
+        "uuid": "46885640-3d27-429b-9f57-d33415333e7c",
+        "version": [ 0, 0, 1 ],
+        "min_engine_version": [ 1, 19, 21 ]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "data",
+            "uuid": "2c5676bd-0545-43bf-a4bb-78acd3abb345",
+            "version": [0, 0, 1]
+        }
+    ]
+}
